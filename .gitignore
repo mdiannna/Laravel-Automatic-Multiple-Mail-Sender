@@ -1,0 +1,16 @@
+/node_modules
+/public/storage
+/public/hot
+/storage/*.key
+/vendor
+/packages
+/.idea
+/storage/framework/testing
+/resources/views/mail/template1.blade.php
+yarn-error.log
+Homestead.json
+Homestead.yaml
+.env
+*.zip
+*.orig
+webpack.mix.back.js
