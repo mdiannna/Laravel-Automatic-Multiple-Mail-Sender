@@ -1,6 +1,8 @@
 # Laravel Automatic Multiple Mail Sender
 A tool to send emails separately to multiple addresses automatized with Laravel.
 
+*This is an Open Source project. Feel free to contribute!*
+
 # Setup
 ### 1. Download/Clone the project
 ### 2. Composer install
